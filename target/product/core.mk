@@ -37,6 +37,8 @@ PRODUCT_PACKAGES += \
     DuiDarkThemeOverlay \
     ExternalStorageProvider \
     FusedLocation \
+    GBoardDarkTheme \
+    GBoardBlackTheme \
     InputDevices \
     KeyChain \
     Keyguard \
