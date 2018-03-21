@@ -51,10 +51,6 @@ PRODUCT_PACKAGES += \
     ProxyHandler \
     QuickSearchBox \
     Settings \
-    SettingsBlackThemeOverlay \
-    SettingsDarkThemeOverlay \
-    DuiDarkThemeOverlay \
-    DuiBlackThemeOverlay \
     SharedStorageBackup \
     StorageManager \
     SubstratumService \
